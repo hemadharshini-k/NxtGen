@@ -56,9 +56,9 @@ Despite rapid technological advances, farmers lack timely, localized support for
 
 ## 👥 Team NXTGEN
 
-- 💡 Dharshan  
-- 🧠 Dharun Kumar  
+- 💡 Dharshan
 - 🌿 Darshan  
+- 🧠 Dharun Kumar  
 - 🛠️ Hemadharshini
 
 ---
